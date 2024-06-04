@@ -1,0 +1,199 @@
+<html>
+<head>
+<title>
+Aguilatour
+</title>
+</head>
+<body>
+<h1>
+<span style="color:red">Europa
+</h1>
+<h2>
+Alemania
+</h2>
+<p>
+Alemania es un país de Europa occidental con un paisaje de bosques, ríos, cadenas montañosas y playas en el mar del Norte.
+</p>
+<img src="Alemania.png"/>
+<h2>
+Francia
+</h2>
+<p>
+Francia, en Europa Occidental, abarca ciudades medievales, villas alpinas y playas mediterráneas. París, su capital, es famosa por sus firmas de alta costura, los museos de arte clásico, como el Louvre, y monumentos como la Torre Eiffel.
+</p>
+<img src="Francia.png"/> 
+<h2>
+Italia
+</h2>
+<p>
+Su capital, Roma, es hogar del Vaticano, de ruinas antiguas y de obras de arte emblemáticas. Otras ciudades importantes son Florencia, con obras maestras del renacimiento.
+</p>
+<img src="Italia.png"/>
+<h2>
+Portugal
+</h2>
+<p>
+Su ubicación en el océano Atlántico influyó en muchos aspectos de su cultura: el bacalao en sal y las sardinas a la parrilla son platos nacionales, las playas del Algarve son un importante destino y gran parte de la arquitectura.
+</p>
+<img src="Portugal.png"/>
+<h2>
+Grecia
+</h2>
+<p>
+Atenas, su capital, conserva monumentos emblemáticos, como la ciudadela de la Acrópolis del siglo V a. C. con el templo del Partenón. Grecia también es famosa por sus playas, desde las arenas negras de Santorini hasta los centros turísticos de eventos en Miconos.
+</p>
+<img src="Grecia.png"/>
+<h1>
+Asia
+</h1>
+<h2>
+Japón
+</h2>
+<p>
+Japón es una nación insular del océano Pacífico con densas ciudades, palacios imperiales, parques nacionales montañosos y miles de santuarios y templos. El tren bala Shinkansen conecta las islas principales de Kyushu (con las playas subtropicales de Okinawa).
+</p>
+<img src="Japon.png"/>
+<h2>
+Nepal
+</h2>
+<p>
+Famoso por sus templos y los montes del Himalaya, entre los cuales se encuentra el Everest. Katmandú, la capital, tiene un laberíntico barrio antiguo lleno de santuarios hindúes y budistas.
+</p>
+<img src="Nepal.png"/>
+<h2>
+Rusia
+</h2>
+<p>
+Es famosa por las compañías de ballet Bolshói de Moscú y Mariinski de San Petersburgo. San Petersburgo, fundada por el líder ruso Pedro el Grande, tiene el Palacio de Invierno de estilo barroco que actualmente alberga parte de la colección de arte del Museo del Hermitage Estatal.
+</p>
+<img src="Rusia.png"/>
+<h2>
+India
+</h2>
+<p>
+En el norte, los monumentos históricos del imperio Mogol incluyen el complejo del Fuerte Rojo de Delhi y la enorme mezquita de Jama Masjid, junto con el icónico mausoleo del Taj Mahal en Agra.
+</p>
+<img src="India.png"/>
+<h2>
+China
+</h2>
+<p>
+En el norte, los monumentos históricos del imperio Mogol incluyen el complejo del Fuerte Rojo de Delhi y la enorme mezquita de Jama Masjid, junto con el icónico mausoleo del Taj Mahal en Agra.
+</p>
+<img src="China.png"/>
+<h1>
+África
+</h1>
+<h2>
+Sudáfrica
+</h2>
+<p>
+Sudáfrica es un país del extremo más meridional del continente africano que se caracteriza por sus numerosos ecosistemas distintos. En el interior, el Parque Nacional Kruger es un destino para el safari, poblado de caza mayor. La Provincia Occidental del Cabo tiene playas, abundantes.
+</p>
+<img src="Sudafrica.png"/>
+<h2>
+Marruecos
+</h2>
+<p>
+ Se distingue por las influencias culturales bereberes, árabes y europeas. La medina de Marrakech es un barrio medieval similar a un laberinto con entretenimiento en su plaza de Yamaa el Fna y los zocos (mercados) que venden cerámicas, joyas y lámparas de metal.
+ </p>
+ <img src="Marruecos.png"/>
+<h2>
+Camerún
+</h2>
+<p>
+Estado unitario organizado como república en el África central.​ «Limita al sur con Guinea Ecuatorial, a continuación con Gabón, y con República del Congo.
+</p>
+<img src="Camerun.png"/>
+<h2>
+Nigeria
+</h2>
+<p>
+Nigeria, oficialmente República Federal de Nigeria​, ​ es un país de África occidental, ​ que limita con Níger al norte, con Chad en el nordeste, con Camerún en el este y con Benín en el oeste.
+</p>
+<img src="Nigeria.png"/>
+<h2>
+Tunez
+</h2>
+<p>
+En la capital, Túnez, el Museo del Bardo tiene exhibiciones arqueológicas que incluyen desde mosaicos romanos hasta arte islámico. El barrio de la medina de la ciudad abarca la enorme mezquita Al-Zaytuna y un animado zoco.
+</p>
+<img src="Tunez.png"/>
+<h1>
+Oceania
+</h1>
+<h2>
+Australia
+</h2>
+<p>
+Australia es un país rodeado por los océanos Índico y Pacífico.El país es conocido por la Casa de la Ópera de Sídney, la Gran Barrera de Coral, una vasta área natural desértica conocida como Outback y especies animales únicas.
+</p>
+<img src="Australia.png"/>
+<h2>
+Nueva Zelanda
+</h2>
+<p>
+En la capital, Wellington, en la Isla Norte, se encuentra el extenso museo nacional Te Papa Tongarewa. El impresionante monte Victoria de Wellington, junto con Fiordland y Southern Lakes en la Isla Sur.
+</p>
+<img src="Nueva Zelanda.png"/>
+<h2>
+Fiyi
+</h2>
+<p>
+En la capital, Wellington, en la Isla Norte, se encuentra el extenso museo nacional Te Papa Tongarewa. El impresionante monte Victoria de Wellington, junto con Fiordland y Southern Lakes en la Isla Sur,
+</p>
+<img src="Fiyi.png"/>
+<h2>
+Samoa
+</h2>
+<p>
+Muchas de sus islas tienen playas bordeadas de arrecifes e interiores escabrosos cubiertos de bosques tropicales con desfiladeros y cascadas.
+</p>
+<img src="Samoa.png"/>
+<h2>
+Kiribati
+</h2>
+<p>
+Con lagunas y playas de arena blanca, muchas de sus islas están desiertas y ofrece una ubicación remota para la pesca, el buceo y la observación de aves.
+</p>
+<img src="Kiribati.png"/>
+<h1>
+America
+</h1>
+<h2>
+México
+</h2>
+<p>
+Conocido por las playas en el Pacífico y el golfo de México, y su diverso paisaje de montañas, desiertos y selvas. Las ruinas antiguas, como Teotihuacán y la ciudad maya de Chichén Itzá, se distribuyen por el país, al igual que las ciudades de la época colonial española.
+</p>
+<img src="Mexico.png"/>
+<h2>
+Estados Unidos
+</h2>
+<p>
+onocido por las playas en el Pacífico y el golfo de México, y su diverso paisaje de montañas, desiertos y selvas. Las ruinas antiguas, como Teotihuacán y la ciudad maya de Chichén Itzá, se distribuyen por el país, al igual que las ciudades de la época colonial española.
+</p>
+<img src="EEUU.png"/>
+<h2>
+Brasil
+</h2>
+<p>
+Brasil es un vasto país de Sudamérica que se extiende desde la Cuenca del Amazonas en el norte hasta los viñedos y las enormes cataratas del Iguazú en el sur. Río de Janeiro, simbolizado por su estatua de 38 m del Cristo Redentor sobre el cerro del Corcovado.
+</p>
+<img src="Brasil.png"/>
+<h2>
+Argentina
+</h2>
+<p>
+El país es conocido por el baile y la música del tango. Su gran capital cosmopolita, Buenos Aires, se centra en la Plaza de Mayo.
+</p>
+<img src="Argentina.png"/>
+<h2>
+Venezuela
+</h2>
+<p>
+A lo largo de su costa en el Caribe, hay islas turísticas tropicales, entre ellas la Isla de Margarita y el archipiélago Los Roques. Al noroeste está la cordillera de los Andes y la ciudad colonial de Mérida.
+</p>
+<img src="Venezuela.png"/>
+</body> 	
+</html>
